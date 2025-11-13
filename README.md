@@ -2,8 +2,8 @@
 
 ``` javascript
 const Profile = {
-    name: "orius.hoc.code",
-    age: 17,
+    name: "im.orius",
+    age: 18,
     country: "Vietnam",
     programming: {
         languages: [ "HTML", "CSS", "Javascript", "Typescript", "Java" ],
